@@ -1,0 +1,6 @@
+[29-Jun-2020 06:25:15 UTC] PHP Warning:  sprintf(): Too few arguments in /home/reynasolutions/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[29-Jun-2020 06:25:15 UTC] PHP Warning:  sprintf(): Too few arguments in /home/reynasolutions/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[29-Jun-2020 06:25:16 UTC] PHP Warning:  sprintf(): Too few arguments in /home/reynasolutions/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[29-Jun-2020 06:25:16 UTC] PHP Warning:  sprintf(): Too few arguments in /home/reynasolutions/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[29-Jun-2020 06:28:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/reynasolutions/public_html/wp-admin/includes/template.php:2426) in /home/reynasolutions/public_html/wp-includes/pluggable.php on line 1281
+[29-Jun-2020 06:28:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/reynasolutions/public_html/wp-admin/includes/template.php:2426) in /home/reynasolutions/public_html/wp-includes/pluggable.php on line 1284
